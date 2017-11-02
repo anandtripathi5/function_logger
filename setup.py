@@ -1,5 +1,4 @@
-from setuptools import setup, find_packages
-import sys, os
+from setuptools import setup
 
 version = '0.1'
 
@@ -15,13 +14,4 @@ setup(name='function_logger',
       author_email='anand.tripathi507@gmail.com',
       url='https://github.com/anandtripathi5/function_logger',
       packages=['function_logger'],
-      license='',
-      include_package_data=True,
-      zip_safe=False,
-      install_requires=[
-          # -*- Extra requirements: -*-
-      ],
-      entry_points="""
-      # -*- Entry points: -*-
-      """,
       )

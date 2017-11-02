@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: function-logger
-Version: 0.1dev-r0
+Version: 0.1
 Summary: logs the function functionality
-Home-page: https://git.txtbox.in:8080/smcore/sm_utils
+Home-page: https://github.com/anandtripathi5/function_logger
 Author: Anand Tripathi
 Author-email: anand.tripathi507@gmail.com
 License: UNKNOWN

@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: function-logger
+Version: 0.1dev-r0
+Summary: logs the function functionality
+Home-page: https://git.txtbox.in:8080/smcore/sm_utils
+Author: Anand Tripathi
+Author-email: anand.tripathi507@gmail.com
+License: UNKNOWN
+Description: decorator that takes the logger and logs the request
+               parameter with the function name and logs the return parameter
+               of function
+Platform: UNKNOWN

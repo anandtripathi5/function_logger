@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+function_logger/__init__.py
+function_logger.egg-info/PKG-INFO
+function_logger.egg-info/SOURCES.txt
+function_logger.egg-info/dependency_links.txt
+function_logger.egg-info/entry_points.txt
+function_logger.egg-info/not-zip-safe
+function_logger.egg-info/top_level.txt

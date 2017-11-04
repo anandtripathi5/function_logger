@@ -7,8 +7,7 @@ Installation Instruction!
 ===================
 
 >- Activate your Virtual Environment.
->- pip install --upgrade pip
->- pip install git+https://github.com/anandtripathi5/function_logger@v0.1#egg=function_logger
+>- pip install function-logger
 
 ----------
 

@@ -1,0 +1,25 @@
+.. _changelog:
+
+================
+ Change history
+================
+
+This document contains change notes for bugfix releases in
+the 0.x series,
+
+.. _version-0.1:
+
+0.1
+=====
+:release-date: 2017-11-04 10:00 PM IST
+:release-by: Anand Tripathi
+
+
+- **Introduction to function logger**:
+    1. Function logger library comes with a function_logger decorator that
+    takes a logger and logs the request paramters with function name and
+    logs the return of function.
+
+
+
+

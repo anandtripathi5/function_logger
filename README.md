@@ -1,5 +1,5 @@
 # function_logger
-Pip install-able library that logs the function functionality in log file. 
+Pip install-able library that logs the function functionality in log file. Function logger is a decorator that logs the function name and function argument when function is called and return parameters of functions when function is ended
 
 
 
